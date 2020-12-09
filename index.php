@@ -1,6 +1,6 @@
   
 <?php
 
-include_once("web.html");
+include_once("theweb.html");
 
 ?>
